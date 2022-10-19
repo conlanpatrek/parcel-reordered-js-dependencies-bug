@@ -1,6 +1,6 @@
 # Parcel reordered js dependencies bug.
 
-https://github.com/parcel-bundler/parcel/issues/________
+https://github.com/parcel-bundler/parcel/issues/8560
 
 ## Steps to recreate
 
